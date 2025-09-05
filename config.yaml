@@ -3,6 +3,8 @@ filters:
     values: [active, inactive]
   - name: priority
     values: [high, medium, low]
+<<<<<<< HEAD
   - name: env
     values: [dev, stage, test, prod]
 feature-a change
+Changing config in feature-b
